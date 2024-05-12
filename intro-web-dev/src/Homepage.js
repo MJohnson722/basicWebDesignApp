@@ -6,6 +6,7 @@ import CssPage from './pages/contentElements/CssPage';
 import JavascriptPage from './pages/contentElements/JavascriptPage';
 import GitHubPage from './pages/contentElements/GitHubPage';
 import ReactPage from './pages/contentElements/ReactPage';
+import "./Homepage.css"
 
 
 function Homepage() {

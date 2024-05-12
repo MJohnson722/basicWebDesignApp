@@ -2,7 +2,9 @@ import React from 'react'
 
 function DefaultPage() {
   return (
-    <div>Default Home Page</div>
+    <div> 
+        Default Home Page
+    </div>
   )
 }
 
