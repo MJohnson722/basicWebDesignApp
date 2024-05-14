@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import "./ReactPage.css";
 
-function ReactTutorialPage() {
+function ReactPage() {
   return (
     <div>
         <div className="row">
@@ -72,4 +72,4 @@ function ReactTutorialPage() {
   );
 }
 
-export default ReactTutorialPage;
+export default ReactPage;
